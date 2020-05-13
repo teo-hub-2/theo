@@ -1,0 +1,17 @@
+body{
+    background-color: #eaf6f6;
+  }
+  hr{
+    border-style: none;
+    width: 5%;
+    color: grey;
+    border: 5px dotted grey;
+    border-style: dotted none none none;
+  }
+
+  h1 , h3{
+      color: #66Bfbf;
+  }
+  .hobies{
+      color: rgba(13, 102, 153, 0.938);
+  }
